@@ -1,0 +1,8 @@
+*.user
+.idea
+
+Tests/obj
+Tests/bin
+
+Validator/obj
+Validator/bin
